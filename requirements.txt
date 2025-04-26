@@ -1,20 +1,12 @@
-# Core framework
 streamlit>=1.24.1
-
-# Data handling
 pandas>=2.0.3
-numpy==1.24.4
-
-# Visualization
+numpy==1.24.4         # Force the last 1.24.x ABI
 matplotlib>=3.7.1
 seaborn>=0.12.2
 plotly>=5.15.0
-
-# Statistical & econometrics
 statsmodels>=0.14.0
 scipy>=1.10.1
 pmdarima>=2.0.4
-
-# ML helpers
 scikit-learn>=1.2.2
+
 
