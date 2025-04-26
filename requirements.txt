@@ -3,7 +3,7 @@ streamlit>=1.24.1
 
 # Data handling
 pandas>=2.0.3
-numpy==1.24.4           # <- downgrade to match pmdarima’s wheel
+numpy==1.24.4
 
 # Visualization
 matplotlib>=3.7.1
@@ -17,3 +17,4 @@ pmdarima>=2.0.4
 
 # ML helpers
 scikit-learn>=1.2.2
+
