@@ -1,14 +1,11 @@
-numpy==1.25
-Cython
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+plotly
 scipy
+pmdarima
 scikit-learn
-pmdarima==2.0.4
-streamlit>=1.24.1
-pandas>=2.0.3
-matplotlib>=3.7.1
-seaborn>=0.12.2
-plotly>=5.15.0
-statsmodels>=0.14.0
-
-
 
